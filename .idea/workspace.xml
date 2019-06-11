@@ -4,7 +4,117 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11df268d-3a44-4622-8b31-b9c566d32fb1" name="Default" comment="" />
+    <list default="true" id="11df268d-3a44-4622-8b31-b9c566d32fb1" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../TDD2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD2/TDD2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD2/src/main/java/Friendships.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD2/src/main/java/Pesel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD2/src/test/java/FriendshipsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/src/main/java/servlet/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/src/main/java/servlet/Logout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17_listop" beforeDir="false" afterPath="$PROJECT_DIR$/../17_listop" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections2" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDA_GIT" beforeDir="false" afterPath="$PROJECT_DIR$/../SDA_GIT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abcde/src/main/java/com/wazny/abcde/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../abcde/src/main/java/com/wazny/abcde/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logBank/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../logBank/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logBank/src/main/java/Bank/servlet/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../logBank/src/main/java/Bank/servlet/LoginServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logBank/src/main/java/Bank/servlet/LogoutServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../logBank/src/main/java/Bank/servlet/LogoutServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logBank/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../logBank/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logBank/src/main/webapp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../logBank/src/main/webapp/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logBank/target/classes/Bank/dao/RegistrationDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logBank/target/classes/Bank/dao/RegistrationDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logBank/target/classes/Bank/log/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logBank/target/classes/Bank/servlet/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../logBank/target/classes/Bank/servlet/LoginServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logBank/target/classes/Bank/servlet/LogoutServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../logBank/target/classes/Bank/servlet/LogoutServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logBank/target/classes/Bank/servlet/RegistrationServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logBank/target/logBank/WEB-INF/classes/Bank/dao/RegistrationDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logBank/target/logBank/WEB-INF/classes/Bank/dao/RegistrationDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logBank/target/logBank/WEB-INF/classes/Bank/log/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logBank/target/logBank/WEB-INF/classes/Bank/servlet/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../logBank/target/logBank/WEB-INF/classes/Bank/servlet/LoginServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logBank/target/logBank/WEB-INF/classes/Bank/servlet/LogoutServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../logBank/target/logBank/WEB-INF/classes/Bank/servlet/LogoutServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logBank/target/logBank/WEB-INF/classes/Bank/servlet/RegistrationServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logBank/target/logBank/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../logBank/target/logBank/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logBank/target/logBank/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../logBank/target/logBank/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logBank/target/logBank/register.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz20/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../quiz20/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quizhibernate/src/main/java/com/wazny/quizhibernate/MyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../quizhibernate/src/main/java/com/wazny/quizhibernate/MyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quizhibernate/src/main/java/com/wazny/quizhibernate/QuizhibernateApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../quizhibernate/src/main/java/com/wazny/quizhibernate/QuizhibernateApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quizhibernate/src/main/webapp/WEB-INF/quiz.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../quizhibernate/src/main/webapp/WEB-INF/quiz.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quizhibernate/src/main/webapp/WEB-INF/styl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_5_0_RC1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Validator.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allclasses-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allclasses-noframe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/constant-values.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deprecated-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/external/jquery/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/images/ui-bg_flat_0_aaaaaa_40x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/images/ui-bg_flat_75_ffffff_40x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/images/ui-bg_glass_65_ffffff_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/images/ui-icons_222222_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/images/ui-icons_2e83ff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/images/ui-icons_454545_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/images/ui-icons_888888_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/jquery-1.10.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/jquery-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/jquery-ui.structure.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/jquery-ui.structure.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/jszip-utils/dist/jszip-utils-ie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/jszip-utils/dist/jszip-utils-ie.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/jszip-utils/dist/jszip-utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/jszip-utils/dist/jszip-utils.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/jszip/dist/jszip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/jszip/dist/jszip.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/member-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/member-search-index.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/glass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FizzBuzz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FizzBuzzTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PeselTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PeselTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Silnia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SilniaTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/FizzBuzz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FizzBuzzTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/PeselTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PeselTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Silnia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SilniaTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/type-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/type-search-index.zip" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,19 +134,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="884">
-              <caret line="52" column="62" selection-start-line="52" selection-start-column="62" selection-end-line="52" selection-end-column="62" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/CalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+            <state relative-caret-position="34">
+              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -51,10 +155,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LiczbyRzymskie.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Pesel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="257">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Flamaster.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -80,8 +202,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/PeselTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="33" column="51" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
+            <state relative-caret-position="172">
+              <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Calculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="57" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -95,6 +226,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -132,12 +266,12 @@
     <option name="width" value="683" />
     <option name="height" value="728" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -181,12 +315,13 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560291147462" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560292810989" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -216,7 +351,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PeselTest">
+  <component name="RunManager" selected="JUnit.FriendsShipsTest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -312,10 +447,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FriendsShipsTest" />
         <item itemvalue="JUnit.PeselTest" />
         <item itemvalue="JUnit.PeselTest.shouldReturnTrueIfPeselIsCorrect" />
         <item itemvalue="JUnit.PeselTest.shouldReturnTrueIfPeselIsInt" />
-        <item itemvalue="JUnit.FriendsShipsTest" />
         <item itemvalue="Application.Calculator" />
       </list>
     </recent_temporary>
@@ -332,25 +467,13 @@
       <updated>1543049504169</updated>
       <workItem from="1550603731936" duration="1457000" />
       <workItem from="1550610835371" duration="27000" />
+      <workItem from="1560291089191" duration="833000" />
+      <workItem from="1560292101081" duration="167000" />
+      <workItem from="1560292395073" duration="231000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PeselTest_shouldReturnTrueIfPeselIsInt - 2019.02.19 at 20h 30m 53s.xml">
-      <configuration name="PeselTest.shouldReturnTrueIfPeselIsInt" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PeselTest_shouldReturnTrueIfPeselIsInt - 2019.02.19 at 20h 31m 47s.xml">
-      <configuration name="PeselTest.shouldReturnTrueIfPeselIsInt" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PeselTest_shouldReturnTrueIfPeselIsInt - 2019.02.19 at 20h 32m 06s.xml">
-      <configuration name="PeselTest.shouldReturnTrueIfPeselIsInt" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PeselTest_shouldReturnTrueIfPeselIsInt - 2019.02.19 at 20h 32m 21s.xml">
-      <configuration name="PeselTest.shouldReturnTrueIfPeselIsInt" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PeselTest_shouldReturnTrueIfPeselIsInt - 2019.02.19 at 20h 32m 35s.xml">
-      <configuration name="PeselTest.shouldReturnTrueIfPeselIsInt" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PeselTest_shouldReturnTrueIfPeselIsInt - 2019.02.19 at 20h 32m 47s.xml">
       <configuration name="PeselTest.shouldReturnTrueIfPeselIsInt" configurationId="JUnit" />
     </history-entry>
@@ -366,9 +489,24 @@
     <history-entry file="PeselTest - 2019.02.19 at 20h 39m 47s.xml">
       <configuration name="PeselTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PeselTest - 2019.06.12 at 00h 35m 15s.xml">
+      <configuration name="PeselTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PeselTest - 2019.06.12 at 00h 36m 23s.xml">
+      <configuration name="PeselTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PeselTest - 2019.06.12 at 00h 37m 03s.xml">
+      <configuration name="PeselTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PeselTest - 2019.06.12 at 00h 37m 16s.xml">
+      <configuration name="PeselTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FriendsShipsTest - 2019.06.12 at 00h 37m 52s.xml">
+      <configuration name="FriendsShipsTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1484000" />
+    <option name="totallyTimeSpent" value="2751000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -378,17 +516,17 @@
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="4" visible="true" weight="0.21558245" />
-      <window_info id="Structure" order="5" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="4" visible="true" weight="0.22919819" />
+      <window_info id="Structure" order="5" weight="0.24962178" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.32861635" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50292826" side_tool="true" weight="0.32861635" />
       <window_info anchor="bottom" id="Messages" order="2" weight="0.32389936" />
-      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.32843137" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.32861635" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49707174" weight="0.33496732" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" sideWeight="0.49707174" visible="true" weight="0.33496732" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.39869282" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -412,20 +550,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/Silnia.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SilniaTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SilniaTest.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/ValidatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -442,41 +567,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/KolkoKrzyzyk.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/KolkoKrzyzykTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/FizzBuzzTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Pesel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LiczbyRzymskie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FizzBuzz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="33" column="52" selection-start-line="33" selection-start-column="52" selection-end-line="33" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="57" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="884">
@@ -484,10 +574,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FizzBuzz.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Silnia.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/FizzBuzzTest.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/CalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+        <state relative-caret-position="34">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -498,10 +594,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LiczbyRzymskie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Flamaster.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -519,10 +622,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="57" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-frame.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Pesel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/PeselTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="33" column="51" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
+        <state relative-caret-position="172">
+          <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
         </state>
       </provider>
     </entry>

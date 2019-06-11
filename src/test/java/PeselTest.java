@@ -22,27 +22,9 @@ class PeselTest {
         Pesel pesel = new Pesel();
 
         //when
-//        boolean a =isValid.matches("-?\\d+(\\.\\d+)?");
         boolean isNumeric = pesel.isValidPesel("194").chars().allMatch(Character ::isDigit);
-//        boolean isNumeric = Character.isDigit('3');
         //then
-//        assertTrue(a);
         assertTrue(isNumeric);
     }
-
-    @Test
-    public void shouldReturnTrueIfPeselIsCorrect(){
-        //given
-        Pesel pesel = new Pesel();
-
-        //when
-        String isValidPesel = pesel.isValidPesel("b");
-//
-        //then
-//        assertEquals("95061410439", isValidPesel);
-        assertTrue(false);
-
-    }
-
 
 }

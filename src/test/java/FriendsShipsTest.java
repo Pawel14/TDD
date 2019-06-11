@@ -8,12 +8,6 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class FriendsShipsTest {
 
-//    private Friendships friendships;
-//    @BeforeEach
-//    public void setUp(){
-//        friendships = new Friendships(); //zamiast linijki given
-//    }
-
     @Test
     public void shouldAddTwoPersonAFriends() {
         //given
