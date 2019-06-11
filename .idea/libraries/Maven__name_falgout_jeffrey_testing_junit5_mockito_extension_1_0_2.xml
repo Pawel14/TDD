@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: name.falgout.jeffrey.testing.junit5:mockito-extension:1.0.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/name/falgout/jeffrey/testing/junit5/mockito-extension/1.0.2/mockito-extension-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/name/falgout/jeffrey/testing/junit5/mockito-extension/1.0.2/mockito-extension-1.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/name/falgout/jeffrey/testing/junit5/mockito-extension/1.0.2/mockito-extension-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
